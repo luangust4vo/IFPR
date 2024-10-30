@@ -1,3 +1,6 @@
+package ex2;
+// Faça uma função recursiva para calcular a soma de todos os elementos de um array.
+
 public class Ex2 {
     public static void main(String[] args) {
         double[] array = {1, 2, 3, 4, 5};
