@@ -5,9 +5,6 @@ import ex10.sort.InsertionSort;
 import ex10.sort.MergeSort;
 import ex10.sort.SelectionSort;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.util.Arrays;
 import java.util.Random;
 
